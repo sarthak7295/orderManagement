@@ -1,4 +1,4 @@
-package com.egen.capstone;
+package com.egen.capstone.main;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
